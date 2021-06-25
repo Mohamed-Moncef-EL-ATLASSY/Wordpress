@@ -1,0 +1,48 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Leven Portfolio 1.0.0\n"
+"POT-Creation-Date: 2019-11-28 18:13+0400\n"
+"PO-Revision-Date: 2017-06-26 14:29+0400\n"
+"Last-Translator: \n"
+"Language-Team: LMPixels linar@lmpixels.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_x;_nx;_nx_noop;"
+"_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_c;"
+"_nc\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: extensions/portfolio/hooks.php:84 extensions/portfolio/views/single.php:73
+#: extensions/portfolio/views/single.php:91
+msgid "image"
+msgstr ""
+
+#: extensions/portfolio/views/archive.php:34
+msgid "My Works"
+msgstr ""
+
+#: extensions/portfolio/views/archive.php:44
+msgid "All"
+msgstr ""
+
+#: extensions/portfolio/views/archive.php:86
+msgid "no image"
+msgstr ""
+
+#: extensions/portfolio/views/single.php:132
+msgid "Description"
+msgstr ""
+
+#: extensions/portfolio/views/single.php:175
+msgid "Technology"
+msgstr ""
+
+#: extensions/portfolio/views/single.php:196
+msgid "Share"
+msgstr ""

@@ -1,0 +1,1211 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Leven Shortcodes 1.5.1\n"
+"POT-Creation-Date: 2020-10-02 11:37+0400\n"
+"PO-Revision-Date: 2017-09-26 16:45+0400\n"
+"Last-Translator: \n"
+"Language-Team: LMPixels linar@lmpixels.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;"
+"_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x;_c;_nc\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: extensions/leven-shortcodes/shortcodes/block-title/config.php:5
+msgid "Block Title"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/block-title/config.php:6
+msgid "Block title"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/block-title/config.php:7
+#: extensions/leven-shortcodes/shortcodes/blog-posts/config.php:7
+#: extensions/leven-shortcodes/shortcodes/cetificate/config.php:7
+#: extensions/leven-shortcodes/shortcodes/client/config.php:8
+#: extensions/leven-shortcodes/shortcodes/clients-slider/config.php:10
+#: extensions/leven-shortcodes/shortcodes/contact-2/config.php:7
+#: extensions/leven-shortcodes/shortcodes/contact/config.php:7
+#: extensions/leven-shortcodes/shortcodes/html-block/config.php:10
+#: extensions/leven-shortcodes/shortcodes/info-block/config.php:7
+#: extensions/leven-shortcodes/shortcodes/info-list-2/config.php:10
+#: extensions/leven-shortcodes/shortcodes/info-list/config.php:10
+#: extensions/leven-shortcodes/shortcodes/page-title-1/config.php:7
+#: extensions/leven-shortcodes/shortcodes/portfolio/config.php:8
+#: extensions/leven-shortcodes/shortcodes/quote/config.php:9
+#: extensions/leven-shortcodes/shortcodes/service/config.php:8
+#: extensions/leven-shortcodes/shortcodes/skills/config.php:10
+#: extensions/leven-shortcodes/shortcodes/social/config.php:10
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/config.php:10
+#: extensions/leven-shortcodes/shortcodes/timeline/config.php:10
+#: extensions/leven-shortcodes/shortcodes/title/config.php:7
+msgid "Leven Elements"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/block-title/options.php:5
+msgid "ID"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/block-title/options.php:6
+msgid ""
+"Optional field. You can add an ID for this block, for example for the Scroll "
+"to ID functionality. There should be no spaces in this field. Example ID: "
+"test_id."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/block-title/options.php:10
+#: extensions/leven-shortcodes/shortcodes/cetificate/options.php:5
+#: extensions/leven-shortcodes/shortcodes/clients-slider/options.php:20
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:7
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:34
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:6
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:35
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:6
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:35
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:72
+#: extensions/leven-shortcodes/shortcodes/image-slider/options.php:22
+#: extensions/leven-shortcodes/shortcodes/info-block/options.php:12
+#: extensions/leven-shortcodes/shortcodes/info-list-2/options.php:7
+#: extensions/leven-shortcodes/shortcodes/info-list-2/options.php:24
+#: extensions/leven-shortcodes/shortcodes/info-list/options.php:7
+#: extensions/leven-shortcodes/shortcodes/info-list/options.php:19
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:6
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:31
+#: extensions/leven-shortcodes/shortcodes/portfolio/options.php:6
+#: extensions/leven-shortcodes/shortcodes/skills/options.php:7
+#: extensions/leven-shortcodes/shortcodes/skills/options.php:22
+#: extensions/leven-shortcodes/shortcodes/social/options.php:7
+#: extensions/leven-shortcodes/shortcodes/social/options.php:23
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:8
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:7
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:24
+#: extensions/leven-shortcodes/shortcodes/title/options.php:5
+msgid "Title"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/block-title/options.php:11
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:7
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:21
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:7
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:21
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:7
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:12
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:17
+#: extensions/leven-shortcodes/shortcodes/portfolio/options.php:7
+#: extensions/leven-shortcodes/shortcodes/portfolio/options.php:12
+#: extensions/leven-shortcodes/shortcodes/title/options.php:6
+#: extensions/leven-shortcodes/shortcodes/title/options.php:11
+msgid "Write some text"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/blog-posts/config.php:5
+msgid "Blog Posts"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/blog-posts/config.php:6
+msgid "Blog posts grid"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/blog-posts/options.php:6
+#: extensions/leven-shortcodes/shortcodes/portfolio/options.php:16
+msgid "Layout"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/blog-posts/options.php:7
+#: extensions/leven-shortcodes/shortcodes/portfolio/options.php:17
+msgid "Choose the layout type"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/blog-posts/options.php:11
+msgid "1 Column"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/blog-posts/options.php:12
+#: extensions/leven-shortcodes/shortcodes/portfolio/options.php:21
+msgid "2 Columns"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/blog-posts/options.php:13
+#: extensions/leven-shortcodes/shortcodes/portfolio/options.php:22
+msgid "3 Columns"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/blog-posts/options.php:17
+msgid "Number of posts to show"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/blog-posts/options.php:24
+msgid "Show only posts with featured image"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/blog-posts/options.php:27
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:122
+msgid "Off"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/blog-posts/options.php:31
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:118
+msgid "On"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/blog-posts/options.php:35
+msgid "Custom link for See All Posts button"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/blog-posts/options.php:36
+msgid ""
+"Optional field. You can use the link to the page that will open when you "
+"click on the See All Posts button."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/blog-posts/views/view.php:51
+#: extensions/leven-shortcodes/shortcodes/blog-posts/views/view.php:94
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/blog-posts/views/view.php:146
+#: extensions/leven-shortcodes/shortcodes/blog-posts/views/view.php:152
+#: extensions/leven-shortcodes/shortcodes/blog-posts/views/view.php:160
+msgid "See All Posts"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/cetificate/config.php:5
+#: extensions/leven-shortcodes/shortcodes/cetificate/config.php:6
+msgid "Certificate"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/cetificate/options.php:6
+msgid "Write some text."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/cetificate/options.php:10
+msgid "Membership ID"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/cetificate/options.php:11
+msgid "Write the ID number of the certificate."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/cetificate/options.php:15
+#: extensions/leven-shortcodes/shortcodes/html-block/options.php:13
+msgid "Short Description"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/cetificate/options.php:16
+msgid "Date of receipt of the certificate."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/cetificate/options.php:21
+#: extensions/leven-shortcodes/shortcodes/clients-slider/options.php:15
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:39
+msgid "Logo"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/cetificate/options.php:22
+msgid "Upload a logo image. Logo of the company issuing the certificate."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/cetificate/options.php:26
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:75
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:71
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:36
+msgid "Image"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/cetificate/options.php:27
+msgid ""
+"Optional field. Upload a certificate image. The image of the certificate "
+"that will be displayed after clicking on the block with the description of "
+"the certificate."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/cetificate/views/view.php:20
+msgid "logo"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/client/config.php:6
+msgid "Client"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/client/config.php:7
+msgid "Add an Client"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/client/options.php:8
+msgid "Choose Logo Image"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/client/options.php:9
+msgid ""
+"Either upload a new, or choose an existing logo image from your media library"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/client/options.php:16
+msgid "Width"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/client/options.php:17
+msgid "Set image width"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/client/options.php:22
+msgid "Height"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/client/options.php:23
+msgid "Set image height"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/client/options.php:33
+msgid "Logo Image Link"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/client/options.php:34
+msgid "Where should your logo image link to?"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/client/options.php:38
+#: extensions/leven-shortcodes/shortcodes/info-list/options.php:35
+#: extensions/leven-shortcodes/shortcodes/social/options.php:34
+msgid "Open Link in New Window"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/client/options.php:39
+#: extensions/leven-shortcodes/shortcodes/info-list/options.php:36
+#: extensions/leven-shortcodes/shortcodes/social/options.php:35
+msgid "Select here if you want to open the linked page in a new window"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/client/options.php:42
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:58
+#: extensions/leven-shortcodes/shortcodes/contact/options.php:50
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:51
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:100
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:51
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:88
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:104
+#: extensions/leven-shortcodes/shortcodes/info-list/options.php:39
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:47
+#: extensions/leven-shortcodes/shortcodes/social/options.php:38
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:50
+msgid "Yes"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/client/options.php:46
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:54
+#: extensions/leven-shortcodes/shortcodes/contact/options.php:46
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:55
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:104
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:55
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:92
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:108
+#: extensions/leven-shortcodes/shortcodes/info-list/options.php:43
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:51
+#: extensions/leven-shortcodes/shortcodes/social/options.php:42
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:54
+msgid "No"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/clients-slider/config.php:8
+msgid "Clients Slider"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/clients-slider/config.php:9
+msgid "Add some Clients logos"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/clients-slider/options.php:8
+msgid "Clients"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/clients-slider/options.php:9
+msgid "Add/Edit Client Item"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/clients-slider/options.php:10
+msgid "Here you can add, remove and edit Clients."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/clients-slider/options.php:16
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:37
+msgid ""
+"Either upload a new, or choose an existing image from your media library"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/clients-slider/options.php:21
+#: extensions/leven-shortcodes/shortcodes/clients-slider/options.php:26
+msgid "Link to the Clients website"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/clients-slider/options.php:25
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:51
+msgid "Website Link"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/clients-slider/options.php:32
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:58
+msgid "Items on the front: Desktop"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/clients-slider/options.php:33
+#: extensions/leven-shortcodes/shortcodes/clients-slider/options.php:39
+#: extensions/leven-shortcodes/shortcodes/clients-slider/options.php:45
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:59
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:65
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:71
+msgid "Example: 2"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/clients-slider/options.php:38
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:64
+msgid "Items on the front: Tablet"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/clients-slider/options.php:44
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:70
+msgid "Items on the front: Mobile"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/config.php:5
+#: extensions/leven-shortcodes/shortcodes/contact-2/config.php:6
+msgid "Contact Form 2"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:8
+msgid "Option Contact Form 2 Title"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:12
+msgid "Contact Form Elements"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:13
+msgid "Add/Edit Contact Form Elements"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:14
+msgid "Here you can add, remove and edit your Contact Form 2 elements."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:22
+msgid "Element Type"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:23
+msgid "The type of the form element."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:25
+msgid "Text Input"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:26
+msgid "Textarea"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:27
+msgid "E-Mail"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:28
+msgid "Phone"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:29
+msgid "Checkbox"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:35
+#: extensions/leven-shortcodes/shortcodes/info-list/options.php:20
+#: extensions/leven-shortcodes/shortcodes/skills/options.php:23
+#: extensions/leven-shortcodes/shortcodes/social/options.php:24
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:25
+msgid "Enter the title"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:40
+#: extensions/leven-shortcodes/shortcodes/info-block/options.php:8
+#: extensions/leven-shortcodes/shortcodes/info-list-2/options.php:21
+#: extensions/leven-shortcodes/shortcodes/service/options.php:8
+#: extensions/leven-shortcodes/shortcodes/social/options.php:20
+msgid "Choose an Icon"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:43
+msgid "Error Message"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:44
+msgid "Enter the error message"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:51
+#: extensions/leven-shortcodes/shortcodes/contact/options.php:43
+msgid "Mandatory"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:64
+msgid "Submit Button Text"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact-2/options.php:66
+msgid "Submit"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/config.php:5
+#: extensions/leven-shortcodes/shortcodes/contact/config.php:6
+msgid "Contact Form"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/options.php:12
+msgid "Show the Checkbox"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/options.php:16
+msgid "on"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/options.php:20
+msgid "off"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/options.php:28
+msgid "Checkbox Text"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/options.php:29
+msgid ""
+"Checkbox text. In this field you can use HTML tags, for example, you can add "
+"a link to any page."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/options.php:34
+msgid "Checkbox Error Text"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/options.php:35
+msgid "Checkbox error text."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/views/view.php:20
+msgid "Full Name"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/views/view.php:20
+msgid "Name is required."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/views/view.php:26
+msgid "Email Address"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/views/view.php:26
+msgid "Valid email is required."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/views/view.php:32
+msgid "Subject"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/views/view.php:32
+msgid "Subject is required."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/views/view.php:39
+msgid "Message"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/views/view.php:39
+msgid "Please, leave me a message."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/contact/views/view.php:70
+msgid "Send message"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/config.php:5
+#: extensions/leven-shortcodes/shortcodes/home-page-1/config.php:6
+msgid "Home Page First Style"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/config.php:7
+#: extensions/leven-shortcodes/shortcodes/home-page-2/config.php:7
+#: extensions/leven-shortcodes/shortcodes/home-page-3/config.php:7
+msgid "Leven Home Pages"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:11
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:11
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:43
+msgid "Subtitles Carousel"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:20
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:20
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:55
+#: extensions/leven-shortcodes/shortcodes/info-block/options.php:20
+#: extensions/leven-shortcodes/shortcodes/info-list-2/options.php:28
+#: extensions/leven-shortcodes/shortcodes/info-list/options.php:24
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:16
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:37
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:34
+msgid "Text"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:26
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:26
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:63
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:22
+msgid "Buttons"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:31
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:31
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:68
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:27
+msgid "Add"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:40
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:40
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:77
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:36
+msgid "URL"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:46
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:46
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:83
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:42
+msgid "Open Link in New Tab"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:47
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:47
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:84
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:43
+msgid "Select here if you want to open the linked page in a new tab"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:60
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:60
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:56
+msgid "Button Type"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:61
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:61
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:57
+msgid "Select a button type"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:65
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:65
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:61
+msgid "Primary"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:69
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:69
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:65
+msgid "Secondary"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:76
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:72
+msgid "Upload an image."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:81
+msgid "Display text to the left or right of the image."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:82
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:94
+msgid "Swap the location of the blocks"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:86
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:98
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:17
+msgid "Left"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:90
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:102
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:31
+msgid "Right"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:95
+msgid "Disable Image Move Effect."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-1/options.php:96
+msgid "Turn off the animation effect when moving the mouse pointer."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-2/config.php:5
+#: extensions/leven-shortcodes/shortcodes/home-page-2/config.php:6
+msgid "Home Page Second Style"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:75
+msgid "Upload an .mp4 Video"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:76
+msgid ""
+"Upload an .mp4 file. For browser compatability, please upload an .mp4 and ."
+"webm file for video backgrounds."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:81
+msgid "Upload an .webm Video"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:82
+msgid ""
+"Upload an .webm file. For browser compatability, please upload an .webm and ."
+"webm file for video backgrounds."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:87
+msgid "Fallback Image"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:88
+msgid "Upload an image in case the browser does not support video backgrounds."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-2/options.php:93
+msgid "Display text to the left or right of the video."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/config.php:5
+#: extensions/leven-shortcodes/shortcodes/home-page-3/config.php:6
+msgid "Home Page Third Style"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:6
+msgid "Start Page Background"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:7
+msgid ""
+"Upload an image. If you use a video background, this image will be used as a "
+"fallback image (in case the browser does not support video backgrounds)."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:11
+msgid "Video Background. Upload an .mp4 Video"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:12
+msgid ""
+"Optional field. Upload an .mp4 file. For browser compatability, please "
+"upload an .mp4 and .webm file for video backgrounds."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:17
+msgid "Video Background. Upload an .webm Video"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:18
+msgid ""
+"Optional field. Upload an .webm file. For browser compatability, please "
+"upload an .mp4 and .webm file for video backgrounds."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:24
+msgid "Video Background Width"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:25
+msgid ""
+"Display the video background in full width and a text block above the video "
+"or half the page."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:29
+msgid "Half"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:33
+msgid "Full"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:37
+msgid "Main Title"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:38
+msgid "Write your main title"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:99
+msgid "Display the image on the right, the block with the text on the left"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:100
+msgid "Swap the location of the blocks at the top of the start page"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:113
+msgid "Text Block Offset"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:114
+msgid "The offset of the text block relative to the block with the image."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:127
+msgid "Text Block Background"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:131
+msgid "You can change the background color of the block with text."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:135
+msgid "Main Title Color"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:142
+msgid "Subtitles Color"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/home-page-3/options.php:149
+msgid "Text Color"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/html-block/config.php:8
+msgid "HTML Block"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/html-block/config.php:9
+msgid "Add HTML or script"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/html-block/options.php:8
+#: extensions/leven-shortcodes/shortcodes/service/options.php:16
+msgid "Content"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/html-block/options.php:9
+msgid "Enter some content for this texblock"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/html-block/options.php:14
+msgid "Optional field. Add a brief description of the block."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/image-slider/config.php:8
+#: extensions/leven-shortcodes/shortcodes/image-slider/options.php:7
+msgid "Image Slider"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/image-slider/config.php:9
+msgid "Add Image Slider"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/image-slider/config.php:10
+msgid "Leven Media Elements"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/image-slider/options.php:8
+msgid "Add/Edit Image Slider Item"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/image-slider/options.php:9
+msgid "Here you can add, remove and edit your Image Slider."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/image-slider/options.php:18
+msgid "Add Image"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/info-block/config.php:6
+msgid "Info Block"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/info-block/options.php:16
+msgid "Highlighted Content"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/info-block/options.php:24
+msgid "Box Style"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/info-block/options.php:26
+msgid "Default Background"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/info-block/options.php:27
+msgid "Gray Background"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/info-list-2/config.php:8
+msgid "Info List 2"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/info-list-2/config.php:9
+#: extensions/leven-shortcodes/shortcodes/info-list/config.php:9
+msgid "Add some Information"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/info-list-2/options.php:8
+#: extensions/leven-shortcodes/shortcodes/info-list/options.php:8
+msgid "Option Info List Title"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/info-list-2/options.php:13
+#: extensions/leven-shortcodes/shortcodes/info-list/config.php:8
+#: extensions/leven-shortcodes/shortcodes/info-list/options.php:12
+msgid "Info List"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/info-list-2/options.php:14
+#: extensions/leven-shortcodes/shortcodes/info-list/options.php:13
+msgid "Add/Edit Info List Item"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/info-list-2/options.php:15
+#: extensions/leven-shortcodes/shortcodes/info-list/options.php:14
+msgid "Here you can add, remove and edit your Info List."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/info-list/options.php:25
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:35
+msgid "Enter the some text"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/info-list/options.php:30
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:52
+#: extensions/leven-shortcodes/shortcodes/social/options.php:29
+msgid "Link"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/info-list/options.php:31
+#: extensions/leven-shortcodes/shortcodes/social/options.php:30
+msgid "Where should your link to?"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/page-title-1/config.php:5
+#: extensions/leven-shortcodes/shortcodes/page-title-1/config.php:6
+msgid "Page Title First Style"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/page-title-1/options.php:11
+#: extensions/leven-shortcodes/shortcodes/portfolio/options.php:11
+#: extensions/leven-shortcodes/shortcodes/title/options.php:10
+msgid "Subtitle"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/portfolio/config.php:6
+msgid "Portfolio"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/portfolio/config.php:7
+msgid "Portfolio grid"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/portfolio/options.php:23
+msgid "4 Columns"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/portfolio/options.php:24
+msgid "5 Columns"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/portfolio/options.php:31
+msgid "Categories"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/portfolio/options.php:32
+msgid ""
+"Select the categories from which the projects will be displayed. If this "
+"field is empty, then projects will be displayed from all categories."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/portfolio/views/view.php:63
+msgid "All"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/portfolio/views/view.php:120
+#: extensions/leven-shortcodes/shortcodes/timeline/views/view.php:30
+msgid "image"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/config.php:7
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:31
+msgid "Quote"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/config.php:8
+msgid "Add a Quote"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:8
+msgid "Text Alignment"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:9
+msgid "Select the prefered text alignment"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:24
+msgid "Center"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:38
+msgid "Enter quote text"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:46
+msgid "Author"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:47
+msgid "Enter the quote author"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:53
+msgid "Enter the author link"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:60
+msgid "Font Size"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:61
+msgid "Select font size"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:66
+msgid "Small"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:67
+msgid "Medium"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:68
+msgid "Large"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:72
+msgid "Custom Class"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:73
+msgid "Enter custom CSS class"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/quote/options.php:76
+msgid ""
+"You can use this class to further style this shortcode by adding your custom "
+"CSS."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/service/config.php:6
+msgid "Service"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/service/config.php:7
+msgid "Add an Service block"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/service/options.php:12
+msgid "Title of the Service"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/service/options.php:17
+msgid "Enter the desired content"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/skills/config.php:8
+msgid "Skills"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/skills/config.php:9
+msgid "Skills block"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/skills/options.php:8
+msgid "Option Skills Title"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/skills/options.php:12
+msgid "Skill"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/skills/options.php:13
+msgid "Add/Edit Skill"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/skills/options.php:14
+msgid "Here you can add, remove and edit your skill."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/skills/options.php:27
+msgid "Value"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/skills/options.php:28
+msgid "Enter the value (%)"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/skills/options.php:32
+msgid "Skill Color"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/skills/options.php:36
+msgid "Select main color."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/social/config.php:8
+msgid "Social Links"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/social/config.php:9
+msgid "Add social links"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/social/options.php:8
+msgid "Option Social Title"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/social/options.php:12
+msgid "Social Icons"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/social/options.php:13
+msgid "Add/Edit Social Icons"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/social/options.php:14
+msgid "Here you can add, remove and edit your Social Icons."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/config.php:8
+msgid "Testimonials Slider"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/config.php:9
+msgid "Add some Testimonials"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:9
+msgid "Option Testimonials Title"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:16
+msgid "Testimonials Style"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:18
+msgid "Style 1"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:19
+msgid "Style 2"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:24
+msgid "Testimonials"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:25
+msgid "Add/Edit Testimonial"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:26
+msgid "Here you can add, remove and edit your Testimonials."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:32
+msgid "Enter the testimonial here"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:41
+msgid "Name"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:42
+msgid "Enter the Name of the Person to quote"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:46
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:29
+msgid "Company"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:47
+msgid "Enter the Company Name"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:52
+msgid "Link to the Persons website"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/timeline/config.php:8
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:12
+msgid "Timeline"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/timeline/config.php:9
+msgid "Timeline Information (Education, Experience...)"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:8
+msgid "Option Timeline Title"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:13
+msgid "Add/Edit Timeline"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:14
+msgid "Here you can add, remove and edit timeline."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:19
+msgid "Period"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:20
+msgid "Enter the period"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:30
+msgid "Enter the company name"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:40
+msgid "Upload a logo image."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:45
+msgid "Current active period"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/timeline/options.php:46
+msgid "The period of the active period will be highlighted."
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/title/config.php:5
+msgid "Page Title"
+msgstr ""
+
+#: extensions/leven-shortcodes/shortcodes/title/config.php:6
+msgid "Section title"
+msgstr ""
